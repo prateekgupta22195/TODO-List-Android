@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TODO</string>
+    <string name="google_maps_key" translatable="false">AIzaSyCva8NarE6axy3KI9J_ym7y5FcqEof5CJ0</string>
+</resources>
